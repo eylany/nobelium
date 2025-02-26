@@ -1,3 +1,4 @@
+console.log('DEBUG: NOTION_PAGE_ID =', process.env.NOTION_PAGE_ID);
 const BLOG = {
   title: '我的博客',
   author: 'eylany',
